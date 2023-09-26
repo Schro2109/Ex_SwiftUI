@@ -14,6 +14,7 @@
 		265517CA2A29AC7400850167 /* Ex_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265517C92A29AC7400850167 /* Ex_SwiftUITests.swift */; };
 		265517D42A29AC7400850167 /* Ex_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265517D32A29AC7400850167 /* Ex_SwiftUIUITests.swift */; };
 		265517D62A29AC7400850167 /* Ex_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265517D52A29AC7400850167 /* Ex_SwiftUIUITestsLaunchTests.swift */; };
+		2696ADBE2A2D83E300469839 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2696ADBD2A2D83E300469839 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		265517CF2A29AC7400850167 /* Ex_SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Ex_SwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		265517D32A29AC7400850167 /* Ex_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ex_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		265517D52A29AC7400850167 /* Ex_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ex_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2696ADBD2A2D83E300469839 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				265517B82A29AC7200850167 /* Ex_SwiftUIApp.swift */,
 				265517BA2A29AC7200850167 /* ContentView.swift */,
+				2696ADBD2A2D83E300469839 /* CircleImage.swift */,
 				265517BC2A29AC7400850167 /* Assets.xcassets */,
 				265517BE2A29AC7400850167 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				265517BB2A29AC7200850167 /* ContentView.swift in Sources */,
 				265517B92A29AC7200850167 /* Ex_SwiftUIApp.swift in Sources */,
+				2696ADBE2A2D83E300469839 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
